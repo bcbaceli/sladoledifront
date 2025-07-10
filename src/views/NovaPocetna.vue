@@ -1,1 +1,1 @@
-<template><div>ss</div></template>
+<template><div>Aplikacija sladoledi prikazuje okuse sladoleda koji se unose u formu i prikazuju se putem Vuetify kartica</div></template>
